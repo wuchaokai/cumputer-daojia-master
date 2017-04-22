@@ -1,0 +1,1544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="decfd8f0-7a04-49f3-a226-8da4f7097a4e" name="Default" comment="初始化项目">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/20160718122140_24548.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/clean-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/clean-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/clean-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/f-1-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/f-1-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/f-1-06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/f-1-07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/f-1-08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/f-1-09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/f-2-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/f-2-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/f-2-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/f-3-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/f-3-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/home-serve-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/home-serve-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/home-serve-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/home-serve-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/home-serve-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/home-serve-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/more-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/more-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/more-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/serve-hero-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/serve-hero-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/serve-hero-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/serve-hero-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/transport-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/transport-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/transport-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/adv/transport-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/baojie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/fuyubiaoyu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/hezuo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/15天包换.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/21天包换.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/24小时发货.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/72小时发货.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/7天退货.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/account-filling.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/dollar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/filter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/icon-hero.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/icon-kaiban.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/icon-link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/icon-news.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/icon-school.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/iconfont-baozhuang.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/move.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/personal-center.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/pic-filling.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/pin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/process.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/rejected-order.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/scanning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/个人实名认证.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/买家保障.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/换货保障.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/提供发票.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/材质保障.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/极速退款.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/溯源质检保障.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/破损补寄.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/采购自营.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/金牌供应商.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon/隐藏可见.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inedx/2-nov.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inedx/5-may.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inedx/baojie.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inedx/brown-1853535_1920.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inedx/f-1-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inedx/f-1-05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inedx/f-1-08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inedx/f-1-09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inedx/f-2-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inedx/f-2-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inedx/f-3-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inedx/f-3-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inedx/fuyubiaoyu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inedx/handshake-2056023_1920.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inedx/heart-583895_1920.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inedx/hezuo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inedx/home-1680807_1920.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inedx/middle-lessons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inedx/piju.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inedx/shipinjiaoxue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/inedx/team-spirit-207319_1920.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/piju.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/shipinjiaoxue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/t-1-bj.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/img/mF_51xflash/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/img/mF_51xflash/play.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/img/mF_51xflash/tit-ar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/img/mF_classicHB/btn-blue.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/img/mF_classicHB/btn-gray.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/img/mF_classicHC/btn-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/img/mF_classicHC/btn-red.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/img/mF_games_tb/ar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/img/mF_kdui/dots.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/img/mF_kdui/slider-arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/img/mF_kiki/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/img/mF_kiki/ar-left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/img/mF_kiki/ar-right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/img/mF_kiki/tit-ar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/img/mF_pithy_tb/btn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/img/mF_pithy_tb/turn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/img/mF_qiyi/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/img/mF_qiyi/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/img/mF_sohusports/sh-btn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/img/mF_taobaomall/btn-bg2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/img/mF_tbhuabao/btn-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/img/mF_51xflash/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/img/mF_51xflash/play.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/img/mF_51xflash/tit-ar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/img/mF_classicHB/btn-blue.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/img/mF_classicHB/btn-gray.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/img/mF_classicHC/btn-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/img/mF_classicHC/btn-red.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/img/mF_games_tb/ar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/img/mF_kdui/dots.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/img/mF_kdui/slider-arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/img/mF_kiki/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/img/mF_kiki/ar-left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/img/mF_kiki/ar-right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/img/mF_kiki/tit-ar.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/img/mF_pithy_tb/btn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/img/mF_pithy_tb/turn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/img/mF_qiyi/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/img/mF_qiyi/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/img/mF_sohusports/sh-btn.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/img/mF_taobaomall/btn-bg2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/img/mF_tbhuabao/btn-bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/computer-daojia.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/cumputer-daojia.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Housekeeping.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/common.styl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/house-keeping.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/house-keeping.styl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/index.styl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_51xflash.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_51xflash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_YSlider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_YSlider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_classicHB.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_classicHB.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_classicHC.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_classicHC.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_dleung.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_dleung.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_expo2010.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_expo2010.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_fancy.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_fancy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_fscreen_tb.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_fscreen_tb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_games_tb.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_games_tb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_kdui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_kdui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_kiki.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_kiki.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_ladyQ.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_ladyQ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_liquid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_liquid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_liuzg.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_liuzg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_luluJQ.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_luluJQ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_pconline.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_pconline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_peijianmall.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_peijianmall.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_pithy_tb.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_pithy_tb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_qiyi.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_qiyi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_quwan.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_quwan.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_rapoo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_rapoo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_shutters.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_shutters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_slide3D.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_slide3D.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_sohusports.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_sohusports.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_taobao2010.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_taobao2010.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_taobaomall.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_taobaomall.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_tbhuabao.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/mf-pattern/mF_tbhuabao.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/myfocus-2.0.4.full.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/demo/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/demo/custom.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_51xflash.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_51xflash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_YSlider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_YSlider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_classicHB.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_classicHB.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_classicHC.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_classicHC.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_dleung.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_dleung.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_expo2010.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_expo2010.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_fancy.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_fancy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_fscreen_tb.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_fscreen_tb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_games_tb.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_games_tb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_kdui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_kdui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_kiki.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_kiki.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_ladyQ.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_ladyQ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_liquid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_liquid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_liuzg.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_liuzg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_luluJQ.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_luluJQ.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_pconline.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_pconline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_peijianmall.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_peijianmall.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_pithy_tb.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_pithy_tb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_qiyi.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_qiyi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_quwan.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_quwan.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_rapoo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_rapoo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_shutters.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_shutters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_slide3D.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_slide3D.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_sohusports.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_sohusports.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_taobao2010.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_taobao2010.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_taobaomall.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_taobaomall.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_tbhuabao.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_tbhuabao.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/myfocus-2.0.4.full.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/dist/myfocus-2.0.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_51xflash.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_51xflash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_YSlider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_classicHB.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_classicHC.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_dleung.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_expo2010.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_expo2010.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_fancy.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_fancy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_fscreen_tb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_games_tb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_kdui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_kiki.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_ladyQ.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_liquid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_luluJQ.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_peijianmall.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_pithy_tb.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_pithy_tb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_qiyi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_quwan.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_quwan.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_rapoo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_shutters.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_slide3D.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_taobaomall.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_taobaomall.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_tbhuabao.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/myfocus-2.0.4.full.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/myfocus-2.0.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myfocus-gh-pages/params.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/mkdirp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/mkdirp.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/stylus" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.bin/stylus.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/amdefine/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/amdefine/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/amdefine/amdefine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/amdefine/intercept.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/amdefine/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/balanced-match/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/brace-expansion/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/brace-expansion/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/brace-expansion/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/README.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/example/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/concat-map/test/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/css-parse/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/css-parse/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/css-parse/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/.coveralls.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/src/browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/src/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/debug/src/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs.realpath/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs.realpath/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs.realpath/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs.realpath/old.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/fs.realpath/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/glob/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/glob/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/glob/changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/glob/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/glob/glob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/glob/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/glob/sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inflight/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inflight/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inflight/inflight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inflight/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inherits/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inherits/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inherits/inherits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inherits/inherits_browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inherits/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimatch/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimatch/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimatch/minimatch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimatch/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/example/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/readme.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/test/dash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/test/default_bool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/test/dotted.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/test/long.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/test/parse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/test/parse_modified.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/test/short.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/minimist/test/whitespace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/bin/cmd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/bin/usage.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/examples/pow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/readme.markdown" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/chmod.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/clobber.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/mkdirp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/opts_fs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/opts_fs_sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/perm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/perm_sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/race.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/rel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/return.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/return_sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/umask.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mkdirp/test/umask_sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ms/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ms/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ms/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/ms/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/normalize.css/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/normalize.css/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/normalize.css/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/normalize.css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/normalize.css/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/once/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/once/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/once/once.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/once/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path-is-absolute/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path-is-absolute/license" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path-is-absolute/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/path-is-absolute/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/reset.css/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/reset.css/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/reset.css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/LICENSE-W3C.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/component.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/examples/big-not-pretty.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/examples/example.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/examples/get-products.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/examples/hello-world.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/examples/not-pretty.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/examples/pretty-print.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/examples/shopping.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/examples/strict.dtd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/examples/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/examples/test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/lib/sax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/attribute-name.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/attribute-no-space.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/buffer-overrun.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/case.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/cdata-chunked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/cdata-end-split.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/cdata-fake-end.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/cdata-multiple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/cdata.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/cyrillic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/duplicate-attribute.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/end_empty_stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/entities.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/entity-mega.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/flush.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/issue-23.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/issue-30.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/issue-35.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/issue-47.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/issue-49.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/issue-84.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/parser-position.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/script-close-better.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/self-closing-child-strict.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/self-closing-child.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/self-closing-tag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/stray-ending.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/trailing-attribute-no-value.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/trailing-non-whitespace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/unclosed-root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/unquoted.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/utf8-split.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/xmlns-as-tag-name.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/xmlns-issue-41.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/xmlns-rebinding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/xmlns-strict.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/xmlns-unbound-element.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/xmlns-unbound.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/xmlns-xml-default-ns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/xmlns-xml-default-prefix-attribute.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/xmlns-xml-default-prefix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/sax/test/xmlns-xml-default-redefine.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/Makefile.dryice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/build/assert-shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/build/mini-require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/build/prefix-source-map.jsm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/build/prefix-utils.jsm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/build/suffix-browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/build/suffix-source-map.jsm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/build/suffix-utils.jsm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/build/test-prefix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/build/test-suffix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/array-set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/base64-vlq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/base64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/binary-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/mapping-list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/source-map-consumer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/source-map-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/source-node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/test/run-tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/test/source-map/test-api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/test/source-map/test-array-set.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/test/source-map/test-base64-vlq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/test/source-map/test-base64.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/test/source-map/test-binary-search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/test/source-map/test-dog-fooding.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/test/source-map/test-source-map-consumer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/test/source-map/test-source-map-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/test/source-map/test-source-node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/test/source-map/test-util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/source-map/test/source-map/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/bin/stylus" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/browserify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/cache/fs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/cache/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/cache/memory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/cache/null.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/convert/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/errors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/add-property.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/adjust.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/alpha.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/base-convert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/basename.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/blend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/blue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/clone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/contrast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/convert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/current-media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/define.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/dirname.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/extname.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/green.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/hsl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/hsla.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/hue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/image-size.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/index.styl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/json.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/length.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/lightness.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/list-separator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/lookup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/luminosity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/match.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/math-prop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/math.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/merge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/operate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/opposite-position.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/p.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/pathjoin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/pop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/prefix-classes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/push.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/range.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/red.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/remove.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/replace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/resolver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/rgb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/rgba.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/s.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/saturation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/selector-exists.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/selector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/selectors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/shift.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/slice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/split.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/substr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/tan.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/trace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/transparentify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/unit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/unquote.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/unshift.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/url.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/use.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/functions/warn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/lexer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/middleware.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/arguments.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/atblock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/atrule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/binop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/block.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/boolean.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/call.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/charset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/comment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/each.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/expression.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/extend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/feature.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/function.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/group.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/hsla.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/ident.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/if.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/import.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/keyframes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/literal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/member.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/namespace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/null.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/object.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/params.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/property.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/query-list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/query.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/return.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/rgba.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/root.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/selector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/supports.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/ternary.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/unaryop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/nodes/unit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/renderer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/selector-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/stack/frame.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/stack/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/stack/scope.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/stylus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/token.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/units.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/deps-resolver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/evaluator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/normalizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/lib/visitor/sourcemapper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/stylus/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/wrappy/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/wrappy/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/wrappy/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/wrappy/wrappy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unnamed.patch" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="computer-daojia" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1634">
+              <caret line="97" column="17" lean-forward="false" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Housekeeping.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Housekeeping.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1197">
+              <caret line="63" column="26" lean-forward="false" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="house-keeping.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/house-keeping.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="47" column="17" lean-forward="false" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mF_ladyQ.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_ladyQ.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="house-keeping.styl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/house-keeping.styl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="28" selection-end-column="24" />
+              <folding>
+                <marker date="1492836570570" expanded="true" signature="5:27" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Stylus File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\.boxID \.pic \{\n            width\: inherit\;\n            height\: 340px\;\n        \}</find>
+      <find>3</find>
+      <find>300</find>
+      <find>clearn</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>clean</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="wuchaokai@" />
+        <option value="littlegirlRachel" />
+        <option value="raoul1996 &lt;baobaozhou199606@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="gh-pages" />
+      </map>
+    </option>
+    <push-targets>
+      <push-target-info target-remote="origin" target-branch="dev" repo="$PROJECT_DIR$" source="master" />
+    </push-targets>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gitignore" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/myfocus-gh-pages/index.html" />
+        <option value="$PROJECT_DIR$/css/index.styl" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/common.styl" />
+        <option value="$PROJECT_DIR$/css/common.css" />
+        <option value="$PROJECT_DIR$/css/stylus.css" />
+        <option value="$PROJECT_DIR$/css/house-keeping.styl" />
+        <option value="$PROJECT_DIR$/Housekeeping.html" />
+        <option value="$PROJECT_DIR$/css/house-keeping.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cumputer-daojia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cumputer-daojia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cumputer-daojia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cumputer-daojia" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/newTemplate" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="javascript.nodejs.core.library.configured.version" value="4.2.6" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="list.type.of.created.stylesheet" value="Stylus" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="display:none&#9;null&#9;null" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\rachelgit\computer-daojia\cumputer-daojia\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Housekeeping.html">
+    <configuration default="false" name="test" type="js.build_tools.npm" factoryName="npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Housekeeping.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cumputer-daojia/Housekeeping.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter />
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="npm.test" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Housekeeping.html" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.Housekeeping.html" />
+        <item index="1" class="java.lang.String" itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="decfd8f0-7a04-49f3-a226-8da4f7097a4e" name="Default" comment="" />
+      <created>1492455496097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1492455496097</updated>
+      <workItem from="1492455497323" duration="102000" />
+      <workItem from="1492455712909" duration="995000" />
+      <workItem from="1492456853617" duration="608000" />
+      <workItem from="1492458307799" duration="8000" />
+      <workItem from="1492469750693" duration="106000" />
+      <workItem from="1492532581898" duration="209000" />
+      <workItem from="1492532801980" duration="4244000" />
+      <workItem from="1492836444995" duration="213000" />
+    </task>
+    <task id="LOCAL-00001" summary="进行基本页面布局的制作">
+      <created>1492474873614</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1492474873614</updated>
+    </task>
+    <task id="LOCAL-00002" summary="进行基本页面布局的制作">
+      <created>1492474906551</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1492474906551</updated>
+    </task>
+    <task id="LOCAL-00003" summary="进行基本页面布局的制作">
+      <created>1492536965811</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1492536965811</updated>
+    </task>
+    <task id="LOCAL-00004" summary="进行基本页面布局的制作">
+      <created>1492536988836</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1492536988836</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第一个分页面布局完毕">
+      <created>1492796744705</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1492796744705</updated>
+    </task>
+    <task id="LOCAL-00006" summary="第一个分页面布局完毕">
+      <created>1492796756894</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1492796756894</updated>
+    </task>
+    <task id="LOCAL-00007" summary="第一个分页面布局完毕">
+      <created>1492796982419</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1492796982419</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12207000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24776785" sideWeight="0.47521368" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32733223" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24909224" sideWeight="0.52478635" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3262295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="进行基本页面布局的制作" />
+    <MESSAGE value="第一个分页面布局完毕" />
+    <MESSAGE value="初始化项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化项目" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1634">
+          <caret line="97" column="17" lean-forward="false" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Housekeeping.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="63" column="26" lean-forward="true" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/house-keeping.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="28" selection-end-column="24" />
+          <folding>
+            <marker date="1492836570570" expanded="true" signature="5:27" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/house-keeping.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="97" column="38" lean-forward="false" selection-start-line="97" selection-start-column="38" selection-end-line="97" selection-end-column="38" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myfocus-gh-pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/common.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="97" column="38" lean-forward="false" selection-start-line="97" selection-start-column="38" selection-end-line="97" selection-end-column="38" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myfocus-gh-pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/common.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="116" column="31" lean-forward="false" selection-start-line="116" selection-start-column="31" selection-end-line="116" selection-end-column="31" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/common.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/fuyubiaoyu.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/reset.css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/common.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_kiki.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="116" column="31" lean-forward="false" selection-start-line="116" selection-start-column="31" selection-end-line="116" selection-end-column="31" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/myfocus-2.0.4.full.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="46" column="16" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/fuyubiaoyu.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/reset.css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myfocus-gh-pages/dist/mf-pattern/mF_kiki.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/adv/f-1-04.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/adv/f-1-05.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/icon/溯源质检保障.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="19" column="1" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/adv/f-2-01.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/myfocus-2.0.4.full.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myfocus-gh-pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="93" column="12" lean-forward="false" selection-start-line="93" selection-start-column="12" selection-end-line="93" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1634">
+          <caret line="97" column="17" lean-forward="false" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/common.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Housekeeping.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="63" column="26" lean-forward="false" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/house-keeping.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="28" selection-end-column="24" />
+          <folding>
+            <marker date="1492836570570" expanded="true" signature="5:27" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/house-keeping.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="47" column="17" lean-forward="false" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myfocus-gh-pages/pack/myfocus/mf-pattern/mF_ladyQ.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
